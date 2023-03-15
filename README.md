@@ -1,4 +1,4 @@
-# PasswordValidator
+# Sample UI
 
 <img src="screenshot/screenshot.png" alt="">
 
