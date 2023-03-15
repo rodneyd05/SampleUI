@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Act1</string>
+    <string name="terms_conditions"><![CDATA[Terms & Conditions]]></string>
+    <string name="by_using_firestore_you_agree_to_our">By using Firestore you agree to our</string>
+    <string name="log_in">Log in</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="continue_with_facebook">Continue with Facebook</string>
+    <string name="let_s_create_an_account_to_save_your_files">Let\'s create an account to save your files</string>
+    <string name="firestore">Firestore</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="i_agree_with_terms_conditions"><![CDATA[I agree with Terms & Conditions]]></string>
+</resources>
